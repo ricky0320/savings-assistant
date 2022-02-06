@@ -1,5 +1,5 @@
 # savings-assistant
-
+Saving Assistant is a budget tracking application to let user track their expense usage and savings over time. User are allowed to make changes even they don't have access to the interent. Once they are back to online, transaction changes made will automatically update.
 
 
 ## This page is licensed under MIT: 
@@ -32,8 +32,7 @@ MongoDB is required for this app.
 https://savings-assistant.herokuapp.com/
 
 ## Credits
-Here are the list of collaborators:  
-Kosal Cheykim
+Ching Leung (Ricky)
 
 ## License
 Notice: This license is covered under (https://opensource.org/licenses/MIT)
