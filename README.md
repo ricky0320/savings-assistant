@@ -28,9 +28,8 @@ MongoDB is required for this app.
 `Open http://localhost:3001 on browser`
 
 ## Links
-Here are the images and links of the pages: <br />
-![spending-wisely]()<br />
-https://tranquil-eyrie-70461.herokuapp.com/
+![savings-assistant](./public/images/saving-assistant-sample.jpg)<br />
+https://savings-assistant.herokuapp.com/
 
 ## Credits
 Here are the list of collaborators:  
